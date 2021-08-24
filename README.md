@@ -3,7 +3,7 @@
 
   
 
-## Programlamayı, Oyunu Ve Müziği Seven Bir Gencim
+## Programlamayı, Oyunu Ve Müziği Seven Bir Gençim
 
 - 💪🏻 Hergün Daha Başarılı Olmak İçin Çalışıyorum
 - 🖥 Teknoloji Benim İçin Çok İlginç Ve Güzel Bir Konu

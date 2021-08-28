@@ -1,5 +1,5 @@
 
-### Selamlar, Ben GamerboyTR👋 ![Discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=G̷a̷m̷e̷r̷b̷o̷y̷T̷R̷%20ᶫᵒᵛᵉᵧₒᵤ#1881) [![Discord](https://img.shields.io/discord/841385554792415282?logo=discord&style=flat-square&color=%237289DA)](https://discord.gg/turkishmethods) [![Patreon](https://img.shields.io/badge/donate-Patreon-red?logo=Patreon&style=flat-square)](https://patreon.com/gamerboytr)
+### Selamlar, Ben GamerboyTR👋 ![Discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=G̷a̷m̷e̷r̷b̷o̷y̷T̷R̷%20ᶫᵒᵛᵉᵧₒᵤ#1881) [![Patreon](https://img.shields.io/badge/donate-Patreon-red?logo=Patreon&style=flat-square)](https://patreon.com/gamerboytr)
 
 ![Discord Statsus](https://lanyard-profile-readme.vercel.app/api/530043492014096384?bg=23283d&borderRadius=8px&hideDiscrim=true)  
 

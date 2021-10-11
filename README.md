@@ -11,7 +11,7 @@
 
 ##
 
-# İletişim Bilgilerim
+## ✉️ İletişim Bilgilerim
 
 - 📧 Mail : offical.gamerboytr@yandex.com
 - 🟦 Discord : G̷a̷m̷e̷r̷b̷o̷y̷T̷R̷ ᶫᵒᵛᵉᵧₒᵤ#8452
@@ -19,9 +19,18 @@
 - 🟪 Twitch : [gamerboytr1](https://www.twitch.tv/gamerboytr1)
 - Hepsi : [Tıkla!](https://linktr.ee/GamerboyTR)
 
+## 🔧 Diller & Araçlar
 
-## İşte Bazı İstatiklerim
+- [![](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows&logoColor=blue)](https://www.microsoft.com/windows)
+- [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
+- [![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow)](https://www.javascript.com/)
+
+## &#x1f4c8; Github İstatislikleri
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gamerboytr&theme=dracula&show_icons=true&locale=tr)
 ![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerboytr&layout=compact&theme=dracula&langs_count=10&locale=tr)
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GamerboyTR&theme=dracula)
+
+## 🏆 GitHub Ödülleri
+
+[![ödül](https://github-profile-trophy.vercel.app/?username=gamerboytr&theme=dracula&column=7&margin-w=10&no-frame=true)](https://github.com/gamerboytr)

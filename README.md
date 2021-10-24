@@ -22,8 +22,8 @@
 ## 🔧 Diller & Araçlar
 
 - [![](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows&logoColor=blue)](https://www.microsoft.com/windows)
-- [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
-- [![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow)](https://www.javascript.com/)
+- [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code%20Insiders-%2309B395?style=flat-square&logo=visual-studio-code&logoColor=%2309B395)](https://code.visualstudio.com/)
+- [![](https://img.shields.io/badge/Code-JavaScript-%23f0db4f?style=flat-square&logo=javascript&logoColor=%23f0db4f)](https://www.javascript.com/)
 
 ## &#x1f4c8; Github İstatislikleri
 

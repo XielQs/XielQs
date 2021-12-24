@@ -1,7 +1,7 @@
 
 ### Selamlar, Ben GamerboyTR👋
-[![Discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=G̷a̷m̷e̷r̷b̷o̷y̷T̷R̷ᶫᵒᵛᵉᵧₒᵤ#8452)](https://discord.com/channels/@me/656522049342144523) [![Patreon](https://img.shields.io/badge/donate-Patreon-red?logo=Patreon&style=flat)](https://patreon.com/gamerboytr) ![WakaTime](https://wakatime.com/badge/user/3bf62e05-1378-4b7a-ae51-97d615e8cfb2.svg) [![Twitter](https://img.shields.io/twitter/follow/gamerboy_tr?label=Takip%C3%A7iler&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/Gamerboy_TR)
-[![Github](https://img.shields.io/github/followers/gamerboytr?logo=github&style=flat&label=Takip%C3%A7iler)](https://github.com/gamerboytr?tab=followers)
+![WakaTime](https://wakatime.com/badge/user/3bf62e05-1378-4b7a-ae51-97d615e8cfb2.svg) [![Twitter](https://img.shields.io/twitter/follow/gamerboy_tr?label=Takip%C3%A7iler&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/Gamerboy_TR)
+[![Github](https://img.shields.io/github/followers/gamerboytr?logo=github&style=flat&label=Takip%C3%A7iler)](https://github.com/gamerboytr?tab=followers) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCYTf3nUjwoHxw7TK6OZgmzw?logo=youtube&style=flat&label=Takip%C3%A7iler&logoColor=red)](https://github.com/gamerboytr?tab=followers)
 
 [![Discord Statsus](https://lanyard-profile-readme.vercel.app/api/530043492014096384?bg=23283d&borderRadius=8px&hideDiscrim=true)](https://discord.com/channels/@me/656522049342144523)
 
@@ -21,11 +21,17 @@
 - 🟪 Twitch : [gamerboytr1](https://www.twitch.tv/gamerboytr1)
 - Hepsi : [Tıkla!](https://linktr.ee/GamerboyTR)
 
+## 🎁 Bana Destek Ol
+[![Patreon](https://img.shields.io/badge/donate-Patreon-red?logo=Patreon&style=for-the-badge)](https://patreon.com/gamerboytr)
+<a href="https://www.buymeacoffee.com/gamerboytr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150"></a>
+
 ## 🔧 Diller & Araçlar
 
-- [![OS Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows&logoColor=blue)](https://www.microsoft.com/windows)
+- [![OS Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=blue)](https://www.microsoft.com/windows)
 - [![Editor VSCode](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-%230078d7?style=flat-square&logo=visual-studio-code&logoColor=%230078d7)](https://code.visualstudio.com/)
-- [![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-%23f0db4f?style=flat-square&logo=javascript&logoColor=%23f0db4f)](https://www.javascript.com/)
+- [![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+- [![Code SASS](https://img.shields.io/badge/Code-SASS-CC6699?style=flat-square&logo=sass&logoColor=CC6699)](https://www.sass-lang.com/)
+- [![Code PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net/)
 
 ## &#x1f4c8; İstatislikler
 

@@ -5,7 +5,7 @@
 
 [![Discord Statsus](https://lanyard-profile-readme.vercel.app/api/530043492014096384?bg=23283d&borderRadius=8px&hideDiscrim=true)](https://discord.com/channels/@me/656522049342144523)
 
-## Programlamayı, Oyunu Ve Müziği Seven Bir Gençim
+## Programlamayı, Oyunu Ve Müziği Seven Bir Gencim
 
 - 💪🏻 Hergün Daha Başarılı Olmak İçin Çalışıyorum
 - 🖥 Teknoloji Benim İçin Çok İlginç Ve Güzel Bir Konu

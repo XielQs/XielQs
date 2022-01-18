@@ -1,7 +1,7 @@
 
 ### Selamlar, Ben GamerboyTR👋
 ![WakaTime](https://wakatime.com/badge/user/3bf62e05-1378-4b7a-ae51-97d615e8cfb2.svg) [![Twitter](https://img.shields.io/twitter/follow/gamerboy_tr?label=Takip%C3%A7iler&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/Gamerboy_TR)
-[![Github](https://img.shields.io/github/followers/gamerboytr?logo=github&style=flat&label=Takip%C3%A7iler)](https://github.com/gamerboytr?tab=followers) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCYTf3nUjwoHxw7TK6OZgmzw?logo=youtube&style=flat&label=Takip%C3%A7iler&logoColor=red)](https://github.com/gamerboytr?tab=followers)
+[![Github](https://img.shields.io/github/followers/gamerboytr?logo=github&style=flat&label=Takip%C3%A7iler)](https://github.com/gamerboytr?tab=followers) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCYTf3nUjwoHxw7TK6OZgmzw?logo=youtube&style=flat&label=Takip%C3%A7iler&logoColor=red)](https://github.com/gamerboytr?tab=followers) [![https://gpvc.arturio.dev/gamerboytr](https://gpvc.arturio.dev/gamerboytr)](https://www.gamerboytr.ml)
 
 [![Discord Statsus](https://lanyard-profile-readme.vercel.app/api/530043492014096384?bg=23283d&borderRadius=8px&hideDiscrim=true)](https://discord.com/channels/@me/656522049342144523)
 

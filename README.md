@@ -16,7 +16,7 @@
 ## ✉️ İletişim Bilgilerim
 
 - 📧 Mail : offical.gamerboytr@yandex.com
-- 🟦 Discord : [G̷a̷m̷e̷r̷b̷o̷y̷T̷R̷ ᶫᵒᵛᵉᵧₒᵤ#8452](https://discord.com/channels/@me/656522049342144523)
+- 🟦 Discord : [Her Zaman Ki Yusuf#8452](https://discord.com/channels/@me/530043492014096384)
 - 🟦 Twitter : [GamerboyTR](https://twitter.com/@Gamerboy_TR)
 - 🟪 Twitch : [gamerboytr1](https://www.twitch.tv/gamerboytr1)
 - Hepsi : [Tıkla!](https://linktr.ee/GamerboyTR)

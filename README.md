@@ -1,7 +1,7 @@
 
 ### Selamlar, Ben GamerboyTR👋
 ![WakaTime](https://wakatime.com/badge/user/3bf62e05-1378-4b7a-ae51-97d615e8cfb2.svg) [![Twitter](https://img.shields.io/twitter/follow/gamerboy_tr?label=Takip%C3%A7iler&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/Gamerboy_TR)
-[![Github](https://img.shields.io/github/followers/gamerboytr?logo=github&style=flat&label=Takip%C3%A7iler)](https://github.com/gamerboytr?tab=followers) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCYTf3nUjwoHxw7TK6OZgmzw?logo=youtube&style=flat&label=Takip%C3%A7iler&logoColor=red)](https://github.com/gamerboytr?tab=followers) [![https://gpvc.arturio.dev/gamerboytr](https://gpvc.arturio.dev/gamerboytr)](https://www.gamerboytr.ml)
+[![Github](https://img.shields.io/github/followers/gamerboytr?logo=github&style=flat&label=Takip%C3%A7iler)](https://github.com/gamerboytr?tab=followers) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCYTf3nUjwoHxw7TK6OZgmzw?logo=youtube&style=flat&label=Takip%C3%A7iler&logoColor=red)](https://github.com/gamerboytr?tab=followers) ![](https://gpvc.arturio.dev/gamerboytr)
 
 [![Discord Statsus](https://lanyard.cnrad.dev/api/853356908135841803?idleMessage=Şuanda%20hiç%20birşey%20yapmıyorum!)](https://discord.com/channels/@me/656522049342144523)
 
@@ -16,7 +16,7 @@
 ## ✉️ İletişim Bilgilerim
 
 - 📧 Mail : offical.gamerboytr@yandex.com
-- 🟦 Discord : [Her Zaman Ki Yusuf#8452](https://discord.com/channels/@me/530043492014096384)
+- 🟦 Discord : [Her Zaman Ki Yusuf#8452](https://discord.com/channels/@me/853356908135841803)
 - 🟦 Twitter : [GamerboyTR](https://twitter.com/@Gamerboy_TR)
 - 🟪 Twitch : [gamerboytr1](https://www.twitch.tv/gamerboytr1)
 - Hepsi : [Tıkla!](https://linktr.ee/GamerboyTR)

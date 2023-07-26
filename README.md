@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Yusuf 👋</h1>
 
-[![Discord Statsus](https://lanyard.cnrad.dev/api/853356908135841803?idleMessage=Şuanda%20hiç%20birşey%20yapmıyorum!)]()
+<p align="center"><img src="https://lanyard.cnrad.dev/api/853356908135841803?idleMessage=Yatıyorum" /></p>
 
 ```py
 ┌──(yusuf@root)-[~]
@@ -21,7 +21,7 @@
 ```
 
 <hr>
-<h3 align="center"> 🔭  I’m currently working with ...</h4>
+<h3 align="center">🔭  I’m currently working with</h4>
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/Node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />

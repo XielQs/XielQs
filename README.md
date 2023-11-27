@@ -11,10 +11,9 @@
     def  __social__(self):
      self.github    = "https://github.com/gamerboytr"
      self.discord   = ["xielq", "XielQ#0001"]
-     self.twitter   = "https://twitter.com/HerZamanKiYusuf"
-     self.instagram = "https://instagram.com/her.zaman.ki.yusuf"
      self.company   = "DevTimers"
-     self.links     = ["devtimers.com", "uygunsms.com", "dcservis.com", "discordsmm.com", "lesiz.com", "nowboosts.com"]
+     self.jon       = "Backend Developer"
+     self.links     = ["devtimers.com", "uygunsms.com", "dcservis.com", "discordsmm.com", "cashland.io", "nowboosts.com"]
   
 ┌──(xielq@linux)-[~]
 └─$ echo "Love y'all <3"

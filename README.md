@@ -9,7 +9,7 @@
   class Yusuf:
   
     def  __social__(self):
-     self.github    = "https://github.com/gamerboytr"
+     self.github    = "https://github.com/XielQs" # XielQ is taken 😡
      self.discord   = ["xielq", "XielQ#0001"]
      self.company   = "DevTimers"
      self.jon       = "Backend Developer"
@@ -51,25 +51,25 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gamerboytr&show_icons=true&theme=onedark"
+      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true&theme=onedark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gamerboytr&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=gamerboytr&show_icons=true" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerboytr&theme=onedark&exclude_repo=ddlc-mas-tr-patch&layout=compact&langs_count=8&card_width=320"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&theme=onedark&exclude_repo=ddlc-mas-tr-patch&layout=compact&langs_count=8&card_width=320"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerboytr&exclude_repo=ddlc-mas-tr-patch&layout=compact&langs_count=8&card_width=320"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&exclude_repo=ddlc-mas-tr-patch&layout=compact&langs_count=8&card_width=320"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerboytr&exclude_repo=ddlc-mas-tr-patch&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&exclude_repo=ddlc-mas-tr-patch&layout=compact&langs_count=8&card_width=320" />
   </picture>
 </p>
 

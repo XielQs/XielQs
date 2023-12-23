@@ -12,7 +12,7 @@
      self.github    = "https://github.com/XielQs" # XielQ is taken 😡
      self.discord   = ["xielq", "XielQ#0001"]
      self.company   = "DevTimers"
-     self.jon       = "Backend Developer"
+     self.job       = "Backend Developer"
      self.links     = ["devtimers.com", "uygunsms.com", "dcservis.com", "discordsmm.com", "cashland.io", "nowboosts.com"]
   
 ┌──(xielq@linux)-[~]

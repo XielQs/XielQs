@@ -1,16 +1,16 @@
 <h1 align="center">Hi! I'm Yusuf 👋</h1>
 
-<p align="center"><img src="https://lanyard.cnrad.dev/api/853356908135841803?idleMessage=Yatıyorum" /></p>
+<p align="center"><img src="https://lanyard.cnrad.dev/api/209621571088678912?idleMessage=Yatıyorum&showDisplayName=true" /></p>
 
 ```py
 ┌──(xielq@linux)-[~]
-└─$ cat yusuf.py
+└─$ cat xielq.py
 
-  class Yusuf:
+  class XielQ:
   
     def  __social__(self):
      self.github    = "https://github.com/XielQs" # XielQ is taken 😡
-     self.discord   = ["xielq", "XielQ#0001"]
+     self.discord   = ["xielqs"]
      self.company   = "DevTimers"
      self.job       = "Backend Developer"
      self.links     = ["devtimers.com", "uygunsms.com", "dcservis.com", "discordsmm.com", "cashland.io", "nowboosts.com"]

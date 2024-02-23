@@ -3,8 +3,8 @@
 <p align="center"><img src="https://lanyard.cnrad.dev/api/209621571088678912?idleMessage=Yatıyorum&showDisplayName=true" /></p>
 
 ```py
-┌──(xielq@linux)-[~]
-└─$ cat xielq.py
+┌──(xielq@archlinux)-[~]
+└─$ cat xielq.py # yes I love cats!
 
   class XielQ:
   
@@ -15,7 +15,7 @@
      self.job       = "Backend Developer"
      self.links     = ["devtimers.com", "uygunsms.com", "dcservis.com", "discordsmm.com", "cashland.io", "nowboosts.com"]
   
-┌──(xielq@linux)-[~]
+┌──(xielq@archlinux)-[~]
 └─$ echo "Love y'all <3"
 ```
 
@@ -42,7 +42,7 @@
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/Windows_10-%230078D6?style=for-the-badge&logo=windows-10&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu_Linux_22-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </p>

@@ -10,7 +10,7 @@
   
     def  __social__(self):
      self.github    = "https://github.com/XielQs" # XielQ is taken 😡
-     self.discord   = ["xielqs"]
+     self.discord   = ["xielq"]
      self.company   = "DevTimers"
      self.job       = "Backend Developer"
      self.links     = ["devtimers.com", "uygunsms.com", "dcservis.com", "discordsmm.com", "cashland.io", "nowboosts.com"]

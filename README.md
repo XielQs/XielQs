@@ -1,16 +1,16 @@
 <h1 align="center">Hi! I'm Yusuf 👋</h1>
 
-<p align="center"><img src="https://lanyard.cnrad.dev/api/209621571088678912?idleMessage=Yatıyorum&showDisplayName=true" /></p>
+<p align="center"><img src="https://lanyard.cnrad.dev/api/209621571088678912?idleMessage=sleeping+rn&showDisplayName=true" /></p>
 
 ```py
 ┌──(xielq@archlinux)-[~]
-└─$ cat xielq.py # I luv cats :3
+└─$ cat xielq.py # I luv cats btw :3
 
   class XielQ:
   
     def  __social__(self):
      self.github    = "https://github.com/XielQs" # XielQ was taken 😡
-     self.discord   = ["xielq"]
+     self.discord   = "xielq"
      self.company   = "DevTimers"
      self.job       = "Backend Developer"
      self.links     = ["devtimers.com", "uygunsms.com", "dcservis.com", "discordsmm.com", "cashland.io", "nowboosts.com"]
@@ -64,14 +64,14 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&theme=onedark&exclude_repo=ddlc-mas-tr-patch&layout=compact&langs_count=8&card_width=320"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&theme=onedark&layout=compact&langs_count=8&card_width=320"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&exclude_repo=ddlc-mas-tr-patch&layout=compact&langs_count=8&card_width=320"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&layout=compact&langs_count=8&card_width=320"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&exclude_repo=ddlc-mas-tr-patch&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&layout=compact&langs_count=8&card_width=320" />
   </picture>
 </p>
 

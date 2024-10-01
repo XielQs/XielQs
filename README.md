@@ -42,7 +42,7 @@
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/Windows_10-%230078D6?style=for-the-badge&logo=windows-10&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/EndeavourOS-%237F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <br/>
   <img src="https://img.shields.io/badge/BurpSuite%20-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
@@ -76,4 +76,4 @@
 </p>
 
 <h2 align="center">👁️ Views</h3>
-<p align="center"><img src="https://moe-counter.glitch.me/get/@gamerboytr?theme=rule34" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@gamerboytr?theme=rule34" /></p>

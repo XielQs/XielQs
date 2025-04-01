@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Yusuf 👋</h1>
+<h1 align="center">Hi there!!! I'm Yusuf 👋</h1>
 
 <p align="center"><img src="https://lanyard.cnrad.dev/api/209621571088678912?idleMessage=sleeping+rn&showDisplayName=true" /></p>
 
@@ -24,17 +24,22 @@
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/NodeJS%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://shields.io/badge/JavaScript%20-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://shields.io/badge/TypeScript%20-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <br/>
+  <img src="https://shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://shields.io/badge/TypeScript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/Bun%20-%23000000.svg?&style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/Next.JS%20-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" /> <br/>
-  <img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java 8%20-%23E34f26.svg?&style=for-the-badge&logo=java&logoColor=white" /> <br/>
   <img src="https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppeteer%20-%2340B5A4.svg?&style=for-the-badge&logo=puppeteer&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/Java%208%20-%23E34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%20-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raylib%20-%23000000.svg?&style=for-the-badge&logo=raylib&logoColor=white" />
 </p>
 
 <hr>
@@ -42,7 +47,7 @@
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/Windows_10-%230078D6?style=for-the-badge&logo=windows-10&logoColor=white" />
-  <img src="https://img.shields.io/badge/EndeavourOS-%237F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <br/>
   <img src="https://img.shields.io/badge/BurpSuite%20-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />

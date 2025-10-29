@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!!! I'm Yusuf 👋</h1>
 
-<p align="center"><img src="https://lanyard.cnrad.dev/api/209621571088678912?idleMessage=sleeping+rn&showDisplayName=true" /></p>
+<p align="center"><img src="https://lanyard.cnrad.dev/api/1241068807930384454?idleMessage=sleeping+rn&showDisplayName=true" /></p>
 
 ```py
 ┌──(xielq@archlinux)-[~]
@@ -10,10 +10,10 @@
   
     def  __social__(self):
      self.github    = "https://github.com/XielQs" # XielQ was taken 😡
-     self.discord   = "xielq"
+     self.discord   = "xielqs"
      self.company   = "DevTimers"
      self.job       = "Backend Developer"
-     self.links     = ["devtimers.com", "uygunsms.com", "dcservis.com", "discordsmm.com", "cashland.io", "nowboosts.com"]
+     self.links     = ["devtimers.com", "vavsms.com", "dcsmm.com", "discordsmm.com", "nowboosts.com"]
   
 ┌──(xielq@archlinux)-[~]
 └─$ echo "Love y'all <3"
@@ -46,12 +46,12 @@
 <h3 align="center">👨‍💻 I’m currently using</h4>
 <br>
 <p align='center'>
-  <img src="https://img.shields.io/badge/Windows_10-%230078D6?style=for-the-badge&logo=windows-10&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/BurpSuite%20-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <h2 align="center">🏆 Stats</h3>

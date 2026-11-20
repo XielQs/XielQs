@@ -11,7 +11,6 @@
     def  __social__(self):
      self.github    = "https://github.com/XielQs" # XielQ was taken 😡
      self.discord   = "xielqs"
-     self.company   = "DevTimers"
      self.job       = "Backend Developer"
   
 ┌──(xielq@archlinux)-[~]
